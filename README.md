@@ -3,6 +3,9 @@
 This project is a mini risk monitoring system with real-time data fetching, margin calculations, and an interactive dashboard.
 
 ---
+## 📊 Demo Video
+https://drive.google.com/file/d/1avWxSW0X0639ENk6BC1WJo6xF_89KgGR/view?usp=drive_link
+
 
 ## 🧱 Architecture Overview
 
